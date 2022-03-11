@@ -1,4 +1,4 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *Tweet*
 
 **Name of your app** is a basic twitter app to read your tweets.
 
@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/jtUuw3fDi8.gif' title='Video Walkthrough' width='10' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/jtUuw3fDi8.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
